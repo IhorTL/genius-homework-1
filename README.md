@@ -1,2 +1,2 @@
 # genius-homework-1
-my homowork
+my homework
