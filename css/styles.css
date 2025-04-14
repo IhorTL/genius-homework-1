@@ -234,3 +234,8 @@ h2 {
     line-height: 1.1;
 }
 
+/* footer img */
+.image-container {
+    width: 278px;
+    height: 213px;
+}
